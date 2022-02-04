@@ -5,6 +5,8 @@ Last updated [2021-09-01].
 
 ---
 
+![Screenshot](https://github.com/adibarra/XO-MarketBot/blob/main/xocv.png)
+
 ## Features:
 - Automatically open market tab
 - Automatically read in orderbook via OCR and template matching
