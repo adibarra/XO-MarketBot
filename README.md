@@ -35,7 +35,7 @@ Last updated [2021-09-01].
 
 ## Installation and Setup Instructions
 1. **Install Python Dependencies:**
-```
+```bash
     ### install python dependencies
     $ sudo apt-get install python3
     $ python3 -m pip install --upgrade pip
@@ -43,13 +43,13 @@ Last updated [2021-09-01].
 ```
 
 2. **Install tesseract-ocr Binaries:**
-```
+```bash
     ### download tesseract-ocr folder to the project direcory
     $ cd path/to/project
 ```
 
 3. **Start the bot:**
-```
+```bash
     ### run the bot script
     $ cd path/to/project
     $ python3 /path/to/project/__main__.py
